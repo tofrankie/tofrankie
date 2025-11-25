@@ -1,9 +1,9 @@
 <h3 style="border-bottom: none">Hey, I'm Frankie 👋</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=toFrankie&text_color=1f2328&text_bold=false&ring_color=0969da&bg_color=f6f8fa&hide_title=true&hide_border=true&border_radius=6&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=tofrankie&text_color=1f2328&text_bold=false&ring_color=0969da&bg_color=f6f8fa&hide_title=true&hide_border=true&border_radius=6&count_private=true" />
 
 <!--
-**toFrankie/toFrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tofrankie/tofrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=toFrankie&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=to&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toFrankie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofrankie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 -->
