@@ -2,6 +2,14 @@
 
 <img src="https://github-readme-stats.shion.dev/api?username=tofrankie&text_color=1f2328&text_bold=false&ring_color=0969da&bg_color=f6f8fa&hide_title=true&hide_border=true&border_radius=6&count_private=true" />
 
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="github-snake" src="dist/github-snake.svg" />
+  </picture>
+</div>
+
 <!--
 **tofrankie/tofrankie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,5 +29,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tofrankie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 https://github.com/anuraghazra/github-readme-stats/issues/4816#issuecomment-4041190801
+
+https://github.com/Platane/snk
 
 -->
